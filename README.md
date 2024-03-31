@@ -20,11 +20,3 @@ The Minesweeper GUI application is a classic implementation of the popular Mines
 **Note on Implementation:**
 
 This Minesweeper GUI application holds a special significance as it was my first project during my college journey. The project showcases my initial steps into the world of programming and was the first time I played around with a GUI. I had another version of this on Java I did when I was 14, but that was a simple command line based game. :)
-
-**Acknowledgments:**
-
-I am incredibly grateful to my mother, whose unwavering support and encouragement were helpful in the development of this program. Her guidance and unwavering belief my abilities provided a constant source of inspiration, motivating me to overcome challenges and persevere. My teacher told me that the grid of buttons cannot be implemented in Python, and it was thanks to my mother that I finished this project and implemented the grid of buttons! 
-
-**Note**
-
-I wrote this documentation back in early 2022, so don't mind the less "standard" style. Thank you for reading!
